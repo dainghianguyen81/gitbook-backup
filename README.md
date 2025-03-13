@@ -1,7 +1,5 @@
 ---
 description: GIỚI THIỆU TỔNG QUAN VỀ PHẦN MỀM
-cover: .gitbook/assets/TMC-01.jpg
-coverY: 0
 ---
 
 # Giới Thiệu Tổng Quan.
